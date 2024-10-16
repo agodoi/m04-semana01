@@ -183,5 +183,3 @@ void loop() {}
 ```
 
 ---
-
-Esse conteúdo agora está pronto para ser utilizado como documentação no GitHub!
