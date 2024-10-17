@@ -7,8 +7,8 @@
 * Proprietário da Inova Fusca (@inovafusca)
 
 * <picture>
-   <source media="(prefers-color-scheme: light)" srcset="https://github.com/agodoi/m04-semana01/blob/main/imgs/inovafusca.png">
-   <img alt="Tecnologias Módulo 02" src="[YOUR-DEFAULT-IMAGE](https://github.com/agodoi/m04-semana01/blob/main/imgs/inovafusca.png)">
+   <source media="(prefers-color-scheme: light)" srcset="https://github.com/agodoi/m04-semana01/blob/main/imgs/logo branca.png">
+   <img alt="Tecnologias Módulo 02" src="[YOUR-DEFAULT-IMAGE](https://github.com/agodoi/m04-semana01/blob/main/imgs/logo branca.png)">
 </picture>
 
 # Horários de Atendimento
