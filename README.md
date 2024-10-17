@@ -6,6 +6,11 @@
 * Especialista em IoT
 * Proprietário da Inova Fusca (@inovafusca)
 
+* <picture>
+   <source media="(prefers-color-scheme: light)" srcset="https://github.com/agodoi/m04-semana01/blob/main/imgs/inovafusca.png">
+   <img alt="Tecnologias Módulo 02" src="[YOUR-DEFAULT-IMAGE](https://github.com/agodoi/m04-semana01/blob/main/imgs/inovafusca.png)">
+</picture>
+
 # Horários de Atendimento
 
 Todas terças e quintas, das 8h às 16h.
