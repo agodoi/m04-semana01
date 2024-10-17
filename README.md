@@ -106,8 +106,8 @@ Todas terças e quintas, das 8h às 16h.
 ### Passos:
 1. Abra o Arduino IDE.
 2. Vá em **Arquivo > Exemplos > Básico > Fade**.
-3. Substitua `LED_BUILTIN` pelo pino 2 (ESP32 não reconhece `LED_BUILTIN`).
-4. Selecione a placa **DOIT ESP32 DEVKIT V1** e a porta COM correta.
+3. Substitua `LED_BUILTIN` pelo pino 13
+4. Selecione a placa **Uno** e a porta COM correta.
 5. Descarregue o programa e observe o LED azul nativo da placa.
 
 ---
