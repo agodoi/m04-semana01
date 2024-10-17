@@ -17,7 +17,14 @@ Todas terças e quintas, das 8h às 16h.
 - **Ambiente do TinkerCad**
 - **Ambiente do Arduino IDE**
 - **Eletrônica Básica**
-- **Ponteiro e Gerenciamento de Memória**
+
+
+
+<picture>
+   <source media="(prefers-color-scheme: light)" srcset="https://github.com/agodoi/m04-semana01/blob/main/imgs/divisor_aguas.png">
+   <img alt="Tecnologias Módulo 02" src="[YOUR-DEFAULT-IMAGE](https://github.com/agodoi/m04-semana01/blob/main/imgs/divisor_aguas.png)">
+</picture>
+
 
 ---
 
