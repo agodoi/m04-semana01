@@ -24,7 +24,12 @@ Todas terças e quintas, das 8h às 16h.
 ## Ambiente TinkerCad
 
 ### Componentes
-À direita da tela do TinkerCad, você encontrará a lista de componentes.
+À direita da tela do TinkerCad, você encontrará a lista de componentes como a imagem abaixo.
+
+<picture>
+   <source media="(prefers-color-scheme: light)" srcset="https://github.com/agodoi/m04-semana01/blob/main/imgs/Captura%20de%20tela%202024-10-17%20090405.png">
+   <img alt="Tecnologias Módulo 02" src="[YOUR-DEFAULT-IMAGE](https://github.com/agodoi/m04-semana01/blob/main/imgs/Captura%20de%20tela%202024-10-17%20090405.png)">
+</picture>
 
 ### Botão Código
 - Utilize o modo **somente TEXTO** para inserir o código-fonte.
@@ -36,6 +41,7 @@ Todas terças e quintas, das 8h às 16h.
 
 ### Baud Rate
 - **Baud rate**: a taxa de comunicação da porta serial, que deve ser a mesma no `Serial.begin` e no monitor serial.
+- Valores padrão: 9600bps e 115200bps. O de menor valor é para projetos simples, o de maior valor, para projetos mais profissionais.
 
 ### Botão Iniciar Simulação
 - Compila e executa o código.
@@ -48,6 +54,11 @@ Todas terças e quintas, das 8h às 16h.
 - A fila é isolada das vizinhas.
 - Linhas vermelhas e pretas são réguas de contatos de uma ponta a outra, mas as linhas de cima e de baixo não se conectam automaticamente.
 - O protoboard tem um “sulco” que separa a matriz em duas metades isoladas.
+
+<picture>
+   <source media="(prefers-color-scheme: light)" srcset="https://github.com/agodoi/m04-semana01/blob/main/imgs/proto.png">
+   <img alt="Tecnologias Módulo 02" src="[YOUR-DEFAULT-IMAGE](https://github.com/agodoi/m04-semana01/blob/main/imgs/proto.png)">
+</picture>
 
 ---
 
@@ -97,7 +108,7 @@ Todas terças e quintas, das 8h às 16h.
 
 ---
 
-## Pondeara
+## Ponderada
 
 Até a sexta-feira dessa semana, cada aluno deverá enviar o seu GitHub particular para a correção.
 Nesse GitHub deve conter prints e fotos compondo o seu relatório que o enunciado solicita.
