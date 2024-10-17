@@ -24,7 +24,7 @@ Todas terças e quintas, das 8h às 16h.
 ## Ambiente TinkerCad
 
 ### Componentes
-À direita, você encontrará a lista de componentes.
+À direita da tela do TinkerCad, você encontrará a lista de componentes.
 
 ### Botão Código
 - Utilize o modo **somente TEXTO** para inserir o código-fonte.
