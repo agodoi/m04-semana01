@@ -99,7 +99,6 @@ Todas terças e quintas, das 8h às 16h.
     // Algoritmo principal
   }
   ```
-
 ---
 
 ## Prática no Arduino IDE - Exemplo do Fade
@@ -124,3 +123,7 @@ Todas terças e quintas, das 8h às 16h.
 
 Até a sexta-feira dessa semana, cada aluno deverá enviar o seu GitHub particular para a correção.
 Nesse GitHub deve conter prints e fotos compondo o seu relatório que o enunciado solicita.
+
+## Para a próxima aula
+
+Instalar o ambiente do VSCode [Seguindo esses passos](https://docs.google.com/document/d/1etH9pohtJPUVs3hmWygYFLzkBLV8PzsorxjhviC-04g/edit?usp=sharing)
