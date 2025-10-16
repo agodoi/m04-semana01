@@ -126,4 +126,4 @@ Nesse GitHub deve conter prints e fotos compondo o seu relatório que o enunciad
 
 ## Para a próxima aula
 
-Instalar o ambiente do VSCode [Seguindo esses passos](https://docs.google.com/document/d/1etH9pohtJPUVs3hmWygYFLzkBLV8PzsorxjhviC-04g/edit?usp=sharing)
+Instalar o ambiente do VSCode [seguindo esses passos](https://docs.google.com/document/d/1etH9pohtJPUVs3hmWygYFLzkBLV8PzsorxjhviC-04g/edit?usp=sharing).
