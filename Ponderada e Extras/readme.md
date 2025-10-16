@@ -87,7 +87,7 @@ Na placa, bem ao lado do logotipo do Arduino (o símbolo do infinito), podemos r
 <br>
 
 <div style="text-align: center;">
-<img title="Led Interno" src="https://github.com/agodoi/m04-semana01/blob/main/imgs/L_led.png"  style="width: 70%;">
+<img title="Led Interno" src="https://github.com/agodoi/m04-semana01/blob/main/imgs/L_led.png"  style="width: 40%;">
 </div>
 
 <br>
