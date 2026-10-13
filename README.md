@@ -21,7 +21,7 @@ Todas terças e quintas, das 8h às 16h.
 - **Ambiente do Arduino IDE**
 - **Eletrônica Básica**
 
-<img src="https://github.com/agodoi/m04-semana01/blob/main/imgs/divisor_aguas.png" width="400">
+<img src="https://github.com/agodoi/m04-semana01/blob/main/imgs/divisor_aguas.png" width="500">
 
 ---
 
@@ -30,7 +30,7 @@ Todas terças e quintas, das 8h às 16h.
 ### Componentes
 À direita da tela do TinkerCad, você encontrará a lista de componentes como a imagem abaixo.
 
-<img src="https://github.com/agodoi/m04-semana01/blob/main/imgs/Captura%20de%20tela%202024-10-17%20090405.png" width="400">
+<img src="https://github.com/agodoi/m04-semana01/blob/main/imgs/Captura%20de%20tela%202024-10-17%20090405.png" width="600">
 
 ### Botão Código
 - Utilize o modo **somente TEXTO** para inserir o código-fonte.
