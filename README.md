@@ -16,7 +16,7 @@
 Todas terças e quintas, das 8h às 16h.
 
 
-# Semana 01 - Programação com TinkerCad e Arduino IDE
+# Semana 01 - Programação em Arduino e Eletrônica Básica
 
 ## Aula de Hoje
 - **Ambiente do TinkerCad**
