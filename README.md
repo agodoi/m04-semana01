@@ -6,6 +6,9 @@
 * Especialista em IoT
 * Proprietário da Inova Fusca (@inovafusca)
 
+
+<img src="https://github.com/agodoi/m04-semana01/blob/main/imgs/LOGO%20BRANCA.png" width="800">
+
 <picture>
    <source media="(prefers-color-scheme: light)" srcset="https://github.com/agodoi/m04-semana01/blob/main/imgs/LOGO%20BRANCA.png">
    <img alt="Tecnologias Módulo 02" src="[YOUR-DEFAULT-IMAGE](https://github.com/agodoi/m04-semana01/blob/main/imgs/LOGO%20BRANCA.png)">
