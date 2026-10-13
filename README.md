@@ -21,13 +21,7 @@ Todas terças e quintas, das 8h às 16h.
 - **Ambiente do Arduino IDE**
 - **Eletrônica Básica**
 
-
-
-<picture>
-   <source media="(prefers-color-scheme: light)" srcset="https://github.com/agodoi/m04-semana01/blob/main/imgs/divisor_aguas.png">
-   <img alt="Tecnologias Módulo 02" src="[YOUR-DEFAULT-IMAGE](https://github.com/agodoi/m04-semana01/blob/main/imgs/divisor_aguas.png)">
-</picture>
-
+<img src="https://github.com/agodoi/m04-semana01/blob/main/imgs/divisor_aguas.png" width="400">
 
 ---
 
@@ -36,10 +30,7 @@ Todas terças e quintas, das 8h às 16h.
 ### Componentes
 À direita da tela do TinkerCad, você encontrará a lista de componentes como a imagem abaixo.
 
-<picture>
-   <source media="(prefers-color-scheme: light)" srcset="https://github.com/agodoi/m04-semana01/blob/main/imgs/Captura%20de%20tela%202024-10-17%20090405.png">
-   <img alt="Tecnologias Módulo 02" src="[YOUR-DEFAULT-IMAGE](https://github.com/agodoi/m04-semana01/blob/main/imgs/Captura%20de%20tela%202024-10-17%20090405.png)">
-</picture>
+<img src="https://github.com/agodoi/m04-semana01/blob/main/imgs/Captura%20de%20tela%202024-10-17%20090405.png" width="400">
 
 ### Botão Código
 - Utilize o modo **somente TEXTO** para inserir o código-fonte.
@@ -65,10 +56,8 @@ Todas terças e quintas, das 8h às 16h.
 - Linhas vermelhas e pretas são réguas de contatos de uma ponta a outra, mas as linhas de cima e de baixo não se conectam automaticamente.
 - O protoboard tem um “sulco” que separa a matriz em duas metades isoladas.
 
-<picture>
-   <source media="(prefers-color-scheme: light)" srcset="https://github.com/agodoi/m04-semana01/blob/main/imgs/proto.png">
-   <img alt="Tecnologias Módulo 02" src="[YOUR-DEFAULT-IMAGE](https://github.com/agodoi/m04-semana01/blob/main/imgs/proto.png)">
-</picture>
+
+<img src="https://github.com/agodoi/m04-semana01/blob/main/imgs/proto.png" width="400">
 
 ---
 
