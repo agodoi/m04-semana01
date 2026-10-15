@@ -106,6 +106,8 @@ Todas terças e quintas, das 8h às 16h.
 
 ---
 
-## Para a próxima aula
+## Valendo Participação na Aula
 
 Instalar o ambiente do VSCode [seguindo esses passos](https://docs.google.com/document/d/1etH9pohtJPUVs3hmWygYFLzkBLV8PzsorxjhviC-04g/edit?usp=sharing).
+
+Aguarde o professor pedir a evidência desta tarefa para registrar sua participação.
