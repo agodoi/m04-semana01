@@ -1,7 +1,7 @@
 # Professor André Godoi
 
 * Graduado em Engenharia Elétrica;
-* Mestre em Engenharia Elétroca;
+* Mestre em Engenharia Elétrica;
 * Doutor em Engenharia de Computação.
 * Especialista em IoT
 * Proprietário da Inova Fusca (@inovafusca)
